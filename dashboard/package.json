@@ -37,7 +37,7 @@
     "webpack-merge": "^5.9.0"
   },
   "dependencies": {
-    "@highlightjs/vue-plugin": "^1.0.2",
+    "@highlightjs/vue-plugin": "^2.0.1",
     "highlight.js": "^11.9.0",
     "humanize-duration": "^3.31.0",
     "js-yaml": "^4.1.0",
