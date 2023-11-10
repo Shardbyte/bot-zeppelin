@@ -90,7 +90,7 @@
     "@types/node": "^18.16.3",
     "@types/passport": "^1.0.15",
     "@types/passport-oauth2": "^1.4.15",
-    "@types/passport-strategy": "^0.2.35",
+    "@types/passport-strategy": "^0.2.38",
     "@types/safe-regex": "^1.1.6",
     "@types/tmp": "0.0.33",
     "@types/twemoji": "^12.1.0",
