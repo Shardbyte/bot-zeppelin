@@ -41,8 +41,12 @@ updates:
 
   - package-ecosystem: "docker"
     open-pull-requests-limit: 30
-    directory:
-      - "/docker/production/nginx"
-      - "/docker/production/backend"
+    directory: "/docker/production/nginx"
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: "docker"
+    open-pull-requests-limit: 30
+    directory: "/docker/production/backend"
     schedule:
       interval: "daily"
