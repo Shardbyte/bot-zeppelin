@@ -1,0 +1,46 @@
+version: 2
+
+updates:
+  - package-ecosystem: "npm"
+    open-pull-requests-limit: 30
+    directory: "/"
+    schedule:
+      interval: "daily"
+    allow:
+      - dependency-type: "direct"
+
+  - package-ecosystem: "npm"
+    open-pull-requests-limit: 30
+    directory: "/backend"
+    schedule:
+      interval: "daily"
+    allow:
+      - dependency-type: "direct"
+
+  - package-ecosystem: "npm"
+    open-pull-requests-limit: 30
+    directory: "/shared"
+    schedule:
+      interval: "daily"
+    allow:
+      - dependency-type: "direct"
+
+  - package-ecosystem: "npm"
+    open-pull-requests-limit: 30
+    directory: "/dashboard"
+    schedule:
+      interval: "daily"
+    allow:
+      - dependency-type: "direct"
+
+  - package-ecosystem: "github-actions"
+    open-pull-requests-limit: 30
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: "docker"
+    open-pull-requests-limit: 30
+    directory: "/"
+    schedule:
+      interval: "daily"
