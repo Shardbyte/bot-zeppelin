@@ -1,4 +1,4 @@
-FROM node:18
+FROM node:21
 USER node
 
 COPY --chown=node:node . /zeppelin
