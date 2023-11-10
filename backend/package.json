@@ -93,7 +93,7 @@
     "@types/passport-strategy": "^0.2.38",
     "@types/safe-regex": "^1.1.6",
     "@types/tmp": "0.0.33",
-    "@types/twemoji": "^12.1.0",
+    "@types/twemoji": "^13.1.2",
     "@types/uuid": "^9.0.7",
     "ava": "^5.3.1",
     "rimraf": "^5.0.5",
