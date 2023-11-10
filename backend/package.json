@@ -96,7 +96,7 @@
     "@types/twemoji": "^12.1.0",
     "@types/uuid": "^9.0.7",
     "ava": "^5.3.1",
-    "rimraf": "^2.6.2",
+    "rimraf": "^5.0.5",
     "source-map-support": "^0.5.16"
   },
   "ava": {
