@@ -73,7 +73,7 @@
     "tsconfig-paths": "^3.9.0",
     "twemoji": "^12.1.4",
     "typeorm": "^0.3.17",
-    "utf-8-validate": "^5.0.5",
+    "utf-8-validate": "^6.0.3",
     "uuid": "^9.0.1",
     "yawn-yaml": "github:dragory/yawn-yaml#string-number-fix-build",
     "zlib-sync": "^0.1.7",
