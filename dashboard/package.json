@@ -39,7 +39,7 @@
   "dependencies": {
     "@highlightjs/vue-plugin": "^1.0.2",
     "highlight.js": "^11.8.0",
-    "humanize-duration": "^3.27.0",
+    "humanize-duration": "^3.31.0",
     "js-yaml": "^4.1.0",
     "marked": "^5.1.0",
     "modern-css-reset": "^1.4.0",
