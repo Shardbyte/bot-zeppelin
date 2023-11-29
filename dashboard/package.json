@@ -41,7 +41,7 @@
     "highlight.js": "^11.9.0",
     "humanize-duration": "^3.31.0",
     "js-yaml": "^4.1.0",
-    "marked": "^9.1.6",
+    "marked": "^11.0.0",
     "modern-css-reset": "^1.4.0",
     "moment": "^2.29.4",
     "vue": "^3.3.8",
