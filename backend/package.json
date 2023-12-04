@@ -43,7 +43,7 @@
     "express": "^4.17.0",
     "fp-ts": "^2.16.1",
     "humanize-duration": "^3.31.0",
-    "io-ts": "^2.0.0",
+    "io-ts": "^2.2.21",
     "js-yaml": "^4.1.0",
     "knub": "^32.0.0-next.16",
     "knub-command-manager": "^9.1.0",
