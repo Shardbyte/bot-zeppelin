@@ -43,7 +43,7 @@
     "js-yaml": "^4.1.0",
     "marked": "^9.1.6",
     "modern-css-reset": "^1.4.0",
-    "moment": "^2.29.4",
+    "moment": "^2.30.0",
     "vue": "^3.3.8",
     "vue-material-design-icons": "^5.2.0",
     "vue-router": "^4.2.5",
