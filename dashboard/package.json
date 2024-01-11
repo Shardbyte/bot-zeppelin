@@ -44,7 +44,7 @@
     "marked": "^9.1.6",
     "modern-css-reset": "^1.4.0",
     "moment": "^2.29.4",
-    "vue": "^3.3.8",
+    "vue": "^3.4.8",
     "vue-material-design-icons": "^5.2.0",
     "vue-router": "^4.2.5",
     "vue2-ace-editor": "^0.0.15",
