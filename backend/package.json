@@ -94,7 +94,7 @@
     "@types/safe-regex": "^1.1.6",
     "@types/tmp": "0.2.6",
     "@types/twemoji": "^13.1.2",
-    "@types/uuid": "^9.0.7",
+    "@types/uuid": "^9.0.8",
     "ava": "^5.3.1",
     "rimraf": "^5.0.5",
     "source-map-support": "^0.5.16"
